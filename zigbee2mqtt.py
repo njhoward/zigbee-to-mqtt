@@ -1,4 +1,5 @@
 import serial
+import time
 
 port = '/dev/ttyUSB0'
 baudrate = 115200  
